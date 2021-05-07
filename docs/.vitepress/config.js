@@ -52,6 +52,17 @@ function getGuideSidebar() {
         { text: '写Demo', link: '/guide/write-demo' },
         { text: '配置', link: '/guide/config' }
       ]
+    },
+    {
+      text: '布局',
+      children: [{ text: '骨架屏', link: '/guide/layout/skeleton-layout' }]
+    },
+    {
+      text: '组件',
+      children: [
+        { text: '日历', link: '/guide/components/calendar' },
+        { text: '轮播组件', link: '/guide/components/swipper' }
+      ]
     }
   ]
 }

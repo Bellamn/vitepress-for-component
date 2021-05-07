@@ -7,7 +7,7 @@
 目前只支持了一种写 demo 的形式。
 
 ```md
-<demo src="../demo-example.vue"
+<demo src="../demo/demo-example.vue"
   language="vue"
   title="Demo演示"
   desc="这是一个Demo渲染示例">
@@ -15,7 +15,7 @@
 ```
 
 渲染效果如下
-<demo src="../demo-example.vue"
+<demo src="../demo/demo-example.vue"
   language="vue"
   title="Demo演示"
   desc="这是一个Demo渲染示例">
